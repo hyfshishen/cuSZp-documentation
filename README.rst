@@ -1,9 +1,10 @@
-Template for the Read the Docs tutorial
+cuSZp Documentation
 =======================================
+.. image:: https://readthedocs.org/projects/cuszp-documentation/badge/?version=latest
+    :target: https://cuszp-documentation.readthedocs.io/en/latest/?badge=latest
+    :alt: Documentation Status
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This is a detailed documentation for the usages of cuSZp GPU error-bounded lossy compressor.
+Documentation can be found at: https://cuszp-documentation.readthedocs.io/en/latest/
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+- Author: Yafan Huang (in 2025 Fall and 2026 Spring)

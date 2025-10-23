@@ -1,5 +1,7 @@
-Welcome to Lumache's documentation!
+cuSZp Documentation
 ===================================
+
+Yafan is working on that...
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
