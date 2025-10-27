@@ -1,9 +1,12 @@
-Usage
+Introduction
 =====
 
-.. _installation:
+Technology
+------------
 
-Installation
+Mentino input and output here.
+
+Applicable Scenarios
 ------------
 
 To use Lumache, first install it using pip:
@@ -11,9 +14,6 @@ To use Lumache, first install it using pip:
 .. code-block:: console
 
    (.venv) $ pip install lumache
-
-Creating recipes
-----------------
 
 To retrieve a list of random ingredients,
 you can use the ``lumache.get_random_ingredients()`` function:
@@ -32,3 +32,5 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+Performance
+----------------

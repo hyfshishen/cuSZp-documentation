@@ -20,5 +20,12 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   introduction
+   license
+   installation
+   algorithm
+   implementation
+   high-level-api
+   low-level-api
+   python-bindings
+
