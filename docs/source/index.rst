@@ -28,4 +28,6 @@ Contents
    high-level-api
    low-level-api
    python-bindings
-
+   examples
+   contributors-and-publications
+   past-releases
