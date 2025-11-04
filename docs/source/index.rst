@@ -34,3 +34,7 @@ Contents
 
 Contents
 --------
+
+Mention publication in this page.
+
+Mention contributing and license at last.
