@@ -27,11 +27,9 @@ Contents
    implementation
    high-level-api
    low-level-api
-   memory-efficient-compression
-   selective-decompression
+   versatility-support
    python-bindings
    examples
-   contributors-and-publications
    past-releases
 
 Contents

@@ -1,2 +1,0 @@
-Memory-efficient Compression
-=====
